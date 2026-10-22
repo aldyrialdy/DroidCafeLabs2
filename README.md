@@ -8,7 +8,7 @@
 
 The following screenshot shows the current appearance of the screen.
 
-![First Fragment – Droid Desserts](screenshots/first-fragment.png)
+![First Fragment – Droid Desserts]([screenshots/first-fragment.png](https://github.com/aldyrialdy/DroidCafeLabs2/blob/master/Screenshot_20261022_134654.png))
 
 ## 3. UI Components
 
